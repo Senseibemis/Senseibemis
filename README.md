@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cyber Secuirty
 - 🌱 I’m currently learning Certified Ethical Hacking
 - 💞️ I’m looking to collaborate on cryptography
-- 📫 How to reach me - Please leave a comment.
+- 📫 How to reach me - Please leave a comment - Thank you!
 
 <!---
 Senseibemis/Senseibemis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
